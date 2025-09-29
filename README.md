@@ -1,5 +1,5 @@
 # A webApp built for the TechTo Hackathon Sept 2025
-- Front-end built with React + Next.js
+- Front-end built with React + Node.js
 - Back-end built with Pyton, ElevenLabs, OpenAI
 - Database hosted on Supabase
 
